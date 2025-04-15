@@ -9,6 +9,7 @@
 .
 ├── data/
 │   ├── 01_raw/
+│   ├── 02_intermediate/
 │   ├── 03_primary/
 │   ├── 05_model_input/
 │   ├── 06_models/
