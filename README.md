@@ -150,6 +150,14 @@ Este projeto busca criar um preditor de acertos de arremessos de Black Mamba, ta
 
 ---
 
+## Mlflow
+
+- Registro dos parâmetros das runs
+
+![mlflow](/workspaces/kobe-pd/docs/source/mlflow.png)
+
+---
+
 ## Como Executar
 
 ### Instalar dependências:
