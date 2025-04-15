@@ -1,0 +1,15 @@
+artifact_uri: /workspaces/kobe-pd/notebooks/../workspaces/kobe-pd/mlruns/0/64ccaa04abe542fe895484ab7297a1f6/artifacts
+end_time: 1744663651907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64ccaa04abe542fe895484ab7297a1f6
+run_name: TesteManual
+run_uuid: 64ccaa04abe542fe895484ab7297a1f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744663651665
+status: 3
+tags: []
+user_id: vscode

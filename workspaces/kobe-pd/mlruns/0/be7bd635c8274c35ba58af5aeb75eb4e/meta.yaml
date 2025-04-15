@@ -1,0 +1,15 @@
+artifact_uri: /workspaces/kobe-pd/notebooks/../workspaces/kobe-pd/mlruns/0/be7bd635c8274c35ba58af5aeb75eb4e/artifacts
+end_time: 1744662074547
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be7bd635c8274c35ba58af5aeb75eb4e
+run_name: Treinamento_DT
+run_uuid: be7bd635c8274c35ba58af5aeb75eb4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744662072788
+status: 3
+tags: []
+user_id: vscode

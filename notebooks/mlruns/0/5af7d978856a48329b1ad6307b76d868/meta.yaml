@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/kobe-pd/notebooks/mlruns/0/5af7d978856a48329b1ad6307b76d868/artifacts
+end_time: 1744658762966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5af7d978856a48329b1ad6307b76d868
+run_name: PipelineAplicacao
+run_uuid: 5af7d978856a48329b1ad6307b76d868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744658762675
+status: 3
+tags: []
+user_id: vscode

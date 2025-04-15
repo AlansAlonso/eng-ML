@@ -2,6 +2,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 import mlflow
 
+
 def filtrar_dados(df: pd.DataFrame) -> pd.DataFrame:
     """Seleciona colunas relevantes e remove linhas com valores nulos."""
     colunas = [
@@ -10,6 +11,7 @@ def filtrar_dados(df: pd.DataFrame) -> pd.DataFrame:
     ]
     df_filtrado = df[colunas].dropna(subset=["shot_made_flag"])
     return df_filtrado
+
 
 def separar_treino_teste(
     df: pd.DataFrame,

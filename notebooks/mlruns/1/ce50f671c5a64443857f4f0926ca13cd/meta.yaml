@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/kobe-pd/notebooks/mlruns/1/ce50f671c5a64443857f4f0926ca13cd/artifacts
+end_time: 1744658477096
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: ce50f671c5a64443857f4f0926ca13cd
+run_uuid: ce50f671c5a64443857f4f0926ca13cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744650790483
+status: 3
+tags: []
+user_id: vscode

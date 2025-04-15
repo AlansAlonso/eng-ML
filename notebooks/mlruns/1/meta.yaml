@@ -1,0 +1,4 @@
+artifact_location: file:///workspaces/kobe-pd/notebooks/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Treinamento_PyCaret
