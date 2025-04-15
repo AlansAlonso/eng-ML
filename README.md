@@ -35,7 +35,7 @@ Este projeto busca criar um preditor de acertos de arremessos de Black Mamba, ta
 
 ## Diagrama de Pipeline
 
-![Diagrama](/workspaces/kobe-pd/docs/source/diagrama.png)
+![Diagrama](/docs/source/diagrama.png)
 ---
 
 ## Ferramentas Utilizadas
@@ -124,8 +124,8 @@ Este projeto busca criar um preditor de acertos de arremessos de Black Mamba, ta
 > **Modelo manteve performance?** *[Não]*
 > Apesar de estranho, era esperado este tipo de comportamento tendo em vista que estes arremessos aparentam ser exclusivamentes para uma "cesta de 3", dessa forma um modelo treinado para uma distribuição diferente não pode ser aplicado para estes dados.
 
-![Arremessos do treinamento do modelo](/workspaces/kobe-pd/docs/source/arremessos_dev.png)
-![Arremessos da aplicação do modelo](/workspaces/kobe-pd/docs/source/arremessos_prod.png)
+![Arremessos do treinamento do modelo](/docs/source/arremessos_dev.png)
+![Arremessos da aplicação do modelo](/docs/source/arremessos_prod.png)
 
 ---
 
@@ -146,7 +146,7 @@ Este projeto busca criar um preditor de acertos de arremessos de Black Mamba, ta
 - Local: `streamlit/app.py`
 - Permite simulação de arremessos com feedback instantâneo de probabilidade
 
-![Streamlit](/workspaces/kobe-pd/docs/source/streamlit.png)
+![Streamlit](/docs/source/streamlit.png)
 
 ---
 
@@ -154,7 +154,7 @@ Este projeto busca criar um preditor de acertos de arremessos de Black Mamba, ta
 
 - Registro dos parâmetros das runs
 
-![mlflow](/workspaces/kobe-pd/docs/source/mlflow.png)
+![mlflow](/docs/source/mlflow.png)
 
 ---
 
