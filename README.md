@@ -191,6 +191,10 @@ mlflow ui --backend-store-uri file:../mlruns
 
 [https://github.com/AlansAlonso/eng-ML](https://github.com/AlansAlonso/eng-ML)
 
+## Link da Aplicacao
+
+[https://github.com/AlansAlonso/eng-ML/blob/main/aplicacao.ipynb](https://github.com/AlansAlonso/eng-ML/blob/main/aplicacao.ipynb)
+
 ---
 
 ## Aviso ao professor
